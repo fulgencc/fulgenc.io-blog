@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `fulgenc.io`,
     author: `Chris Fulgencio`,
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://fulgenc.io`,
