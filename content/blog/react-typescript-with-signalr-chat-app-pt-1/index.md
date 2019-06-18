@@ -1,14 +1,13 @@
 ---
 title: React/Typescript with SignalR Chat App
 date: "2019-06-16T22:40:32.169Z"
-description: This is a custom description for SEO and Open Graph purposes, rather than the default generated excerpt. Simply add a description field to the frontmatter.
 ---
 
 Hi folks! Today, we will be creating a client component chat application with React, SignalR and Typescript.
 
-For this to work, we're also gonna need a server which handle sending and receiving all the messages between the clients. I'll be covering that in part two of this demo, so stay tuned!
+For this to work, we're also gonna need a server which handle sending and receiving all the messages between the clients. I'll be covering that in part three of this demo, so stay tuned!
 
-A big shout out to codingblast, their tutorial is spot on - I just wanted to update their demo with hooks. :)
+A big shout out to codingblast, [their tutorial](https://codingblast.com/asp-net-core-signalr-chat-react/) is spot on - I just wanted to update it using hooks. :)
 
 ##Setting up your environment
 Before we start this, I'm going to assume that you've already installed node.js and npm.
