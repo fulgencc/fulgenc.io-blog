@@ -6,6 +6,8 @@ module.exports = {
     siteUrl: `https://fulgenc.io`,
     social: {
       twitter: ``,
+      github: `fulgencc`,
+      instagram: `hipstopher94`
     },
   },
   plugins: [
