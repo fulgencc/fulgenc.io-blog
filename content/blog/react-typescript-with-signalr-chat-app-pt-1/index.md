@@ -1,5 +1,5 @@
 ---
-title: React/Typescript with SignalR Chat App
+title: React/Typescript with SignalR Chat App Part 1
 date: "2019-06-16T22:40:32.169Z"
 ---
 
