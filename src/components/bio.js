@@ -41,7 +41,7 @@ function Bio() {
               Written by <strong>{author}</strong> who lives and works in Los Angeles.
               {` `}
               <a href={`https://github.com/${social.github}`}>
-                You should follow him on GitHub.
+                You should follow me on GitHub.
               </a>
             </p>
           </div>
