@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `fulgenc.io`,
     author: `Chris Fulgencio`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A blog to help other developers, and to share my thoughts.`,
     siteUrl: `https://fulgenc.io`,
     social: {
       twitter: ``,
