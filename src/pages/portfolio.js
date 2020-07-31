@@ -63,8 +63,8 @@ export default function Portfolio() {
                     <motion.div className='text-center' variants={container} initial="hidden" animate="show">
                       <motion.p variants={item}> <FaMapMarkerAlt/> Los Angeles, California</motion.p>
                       <motion.p variants={item}> <FaRegEnvelope/> chris@fulgenc.io</motion.p>
-                      <motion.p variants={item}> <FaGithub/> GitHub</motion.p>
-                      <motion.p variants={item}> <FaLinkedin/> LinkedIn</motion.p>
+                      <a href='https://github.com/fulgencc'><motion.p variants={item} className='text-dark'><FaGithub/> GitHub</motion.p></a>
+                      <a href='https://www.linkedin.com/in/chris-fulgencio-b25554103/' className='text-dark'><motion.p variants={item}><FaLinkedin/> LinkedIn</motion.p></a>
                       <motion.p variants={item}> <FaUniversity/> University of California, Irvine</motion.p>
                     </motion.div>
                   </Col>
