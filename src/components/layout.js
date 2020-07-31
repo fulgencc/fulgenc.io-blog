@@ -50,6 +50,7 @@ class Layout extends React.Component {
       )
     }
     return (
+    <div className='bg-light'>
       <div
         style={{
           marginLeft: `auto`,
@@ -61,8 +62,9 @@ class Layout extends React.Component {
         <header>{header}</header>
         <main>{children}</main>
         <footer>
-        </footer>
+        </footer>z
       </div>
+    </div>
     )
   }
 }
