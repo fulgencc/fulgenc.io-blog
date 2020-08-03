@@ -35,6 +35,8 @@ class Layout extends React.Component {
             fontFamily: `Montserrat, sans-serif`,
             marginTop: 0,
           }}
+
+          className='pb-5 text-primary'
         >
           <Link
             style={{
